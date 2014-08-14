@@ -24,7 +24,7 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "node": ">=0.3.4",
+    "node": ">=v0.3.4",
     "oracle": ">=0.3.4",
     "async": ">=0.1.22",
     "underscore": "1.4.3",
